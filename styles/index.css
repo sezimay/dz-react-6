@@ -1,0 +1,9 @@
+@import './theme/dark.css';
+@import './theme/light.css';
+@import './reset.css';
+
+.App {
+  background: black;
+
+  min-height: 100vh;
+}
